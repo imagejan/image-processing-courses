@@ -1,6 +1,5 @@
 name: scijava
 channels:
-  - damianavila82
   - conda-forge
 dependencies:
   - rise
