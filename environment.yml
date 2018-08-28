@@ -1,6 +1,7 @@
-name: scijava
 channels:
   - conda-forge
 dependencies:
   - rise
-  - scijava-jupyter-kernel
+  - beakerx
+  - pip:
+    - jupyter-contrib-nbextensions
