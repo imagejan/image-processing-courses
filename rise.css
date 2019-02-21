@@ -1,0 +1,17 @@
+.reveal section img {
+    margin-left: auto;
+    margin-right: auto;
+    display: inline;
+}
+
+.rendered_html table {
+    font-size: 80%;
+}
+
+.reveal table th, .reveal table td {
+    text-align: center;
+}
+
+.rise-enabled .reveal .slides {
+    text-align: center;
+}
