@@ -2,6 +2,6 @@ channels:
   - conda-forge
 dependencies:
   - beakerx
-  - jupyter-contrib-nbextensions
+  - jupyter_contrib_nbextensions
   - openjdk=8
   - rise
